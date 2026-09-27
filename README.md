@@ -45,7 +45,7 @@ As electric vehicles become increasingly prevalent, managing charging infrastruc
 - **Bushra Almasalmeh:** Lead Web Front-End Developer — Responsible for designing & developing the web dashboard, station management interfaces, and overall UI/UX structure.
 - **Ibrahim Taqatqa:** Mobile Application Developer — Responsible for the Flutter mobile application development and mobile client integration.
 - **Islam Abu Khalaf:** Backend Developer & Database Assistant — Responsible for building Laravel APIs, backend server logic, and assisting with database operations.
-- **Faris Jaradat:** Database Administrator — Responsible for designing, structuring, and managing the MySQL database architecture.
+- **Fares Jaradat:** Database Administrator — Responsible for designing, structuring, and managing the MySQL database architecture.
 ---
 
 ## 🚀 Installation & Setup
@@ -67,7 +67,7 @@ As electric vehicles become increasingly prevalent, managing charging infrastruc
 ---
 ## 📬 Connect with the Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bushraalmasalmeh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/IslamAbukhalaf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islamabukhalaf5@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Islam-developer11)
    
